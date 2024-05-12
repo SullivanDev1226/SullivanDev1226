@@ -199,34 +199,7 @@
 
 
 
-To contact me.
 
-
-![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
-
-<table>
-  <tr>
-    <td>
-      
-- [Welcome!](#AuWaiLun-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
-
-    </td>
-    <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
-    </td>
-  </tr>
-</table>
 
 
 # Welcome!
